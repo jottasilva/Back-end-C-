@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.db
+*.sqlite
+*.sqlite3
