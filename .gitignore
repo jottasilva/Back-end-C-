@@ -1,6 +1,8 @@
 .env
 .env.*
 !.env.example
+*.md
+*.pdf
 
 bin/
 obj/
